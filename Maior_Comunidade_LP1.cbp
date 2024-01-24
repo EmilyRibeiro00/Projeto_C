@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Maior_Comunidade_LP1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Maior_Comunidade_LP1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Maior_Comunidade_LP1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="01_main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="02_recebeArquivo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="03_retornaLista.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="04_imprimeLista.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="05_criaMatriz.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="06_populaMatriz.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="07_imprimeMatriz.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="08_criaListaDeConexao.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="09_ordenaListaDeConexao.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="10_criaVetorPessoas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="11_criaVetorMaiorComunidade.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="12_criaStructComunidade.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="13_criaArquivoSaida.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Makefile" />
+		<Unit filename="my_header.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1701451764 source:/home/amanda_lab/C/Trabalho Final/Maior_Comunidade_LP1/01_main.c
+	"my_header.h"
+
+1701451740 /home/amanda_lab/C/Trabalho Final/Maior_Comunidade_LP1/my_header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<unistd.h>
+
+1701452332 source:/home/amanda_lab/C/Trabalho Final/Maior_Comunidade_LP1/04_imprimeLista.c
+	"my_header.h"
+
+1701390104 source:/home/amanda_lab/C/Trabalho Final/Maior_Comunidade_LP1/02_recebeArquivo.c
+	"my_header.h"
+
+1701391114 source:/home/amanda_lab/C/Trabalho Final/Maior_Comunidade_LP1/03_retornaLista.c
+	"my_header.h"
+
+1701390135 source:/home/amanda_lab/C/Trabalho Final/Maior_Comunidade_LP1/05_criaMatriz.c
+	"my_header.h"
+
+1701391065 source:/home/amanda_lab/C/Trabalho Final/Maior_Comunidade_LP1/06_populaMatriz.c
+	"my_header.h"
+
+1701381902 source:/home/amanda_lab/C/Trabalho Final/Maior_Comunidade_LP1/07_imprimeMatriz.c
+	"my_header.h"
+
+1701390682 source:/home/amanda_lab/C/Trabalho Final/Maior_Comunidade_LP1/08_criaListaDeConexao.c
+	"my_header.h"
+
+1701450358 source:/home/amanda_lab/C/Trabalho Final/Maior_Comunidade_LP1/09_ordenaListaDeConexao.c
+	"my_header.h"
+
+1701390771 source:/home/amanda_lab/C/Trabalho Final/Maior_Comunidade_LP1/10_criaVetorPessoas.c
+	"my_header.h"
+
+1701391323 source:/home/amanda_lab/C/Trabalho Final/Maior_Comunidade_LP1/11_criaVetorMaiorComunidade.c
+	"my_header.h"
+
+1701442333 source:/home/amanda_lab/C/Trabalho Final/Maior_Comunidade_LP1/12_criaStructComunidade.c
+	"my_header.h"
+
+1701442390 source:/home/amanda_lab/C/Trabalho Final/Maior_Comunidade_LP1/13_criaArquivoSaida.c
+	"my_header.h"
+
+1701634422 source:c:\users\emily\downloads\projeto_final_c\02_recebearquivo.c
+	"my_header.h"
+
+1701482321 c:\users\emily\downloads\projeto_final_c\my_header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<unistd.h>
+
+1701531016 source:c:\users\emily\downloads\projeto_final_c\03_retornalista.c
+	"my_header.h"
+
+1701660372 source:c:\users\emily\downloads\projeto_final_c\06_populamatriz.c
+	"my_header.h"
+
+1701623139 source:c:\users\emily\downloads\projeto_final_c\07_imprimematriz.c
+	"my_header.h"
+
+1701624191 source:c:\users\emily\downloads\projeto_final_c\08_crialistadeconexao.c
+	"my_header.h"
+
+1701624833 source:c:\users\emily\downloads\projeto_final_c\09_ordenalistadeconexao.c
+	"my_header.h"
+
+1701626011 source:c:\users\emily\downloads\projeto_final_c\10_criavetorpessoas.c
+	"my_header.h"
+
+1701659712 source:c:\users\emily\downloads\projeto_final_c\11_criavetormaiorcomunidade.c
+	"my_header.h"
+
+1701453993 source:c:\users\emily\downloads\projeto_final_c\12_criastructcomunidade.c
+	"my_header.h"
+
+1701634417 source:c:\users\emily\downloads\projeto_final_c\13_criaarquivosaida.c
+	"my_header.h"
+
+1701632735 source:c:\users\emily\downloads\projeto_final_c\01_main.c
+	"my_header.h"
+
+1701660274 source:c:\users\emily\downloads\projeto_final_c\04_imprimelista.c
+	"my_header.h"
+
+1701532495 source:c:\users\emily\downloads\projeto_final_c\05_criamatriz.c
+	"my_header.h"
+
